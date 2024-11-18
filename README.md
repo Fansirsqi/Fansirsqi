@@ -1,13 +1,17 @@
-<h1 align="center">Hi 👋, This's  fansirsqi </h1> 
+<h1 align="center">Hi 👋, This's fansirsqi </h1>
 
-<p align="center">You Are The <img src="https://profile-counter.glitch.me/fansirsqi/count.svg"> Visitor</p>
+<p align="center">
+  <img src="https://count.getloli.com/@fansirsqi?name=fansirsqi&theme=rule34&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto">
+</p>
 
-<h3 align="center">A third rate person who loves development and has a strong technical connection</h3>
+<h3 align="center">A third rate person who loves development and has a strong technical</h3>
 
 <hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fansirsqi&show_icons=true&locale=en&layout=compact" alt="fansirsqi" /></p>
+<span align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fansirsqi&show_icons=true&locale=en&layout=compact" alt="fansirsqi" />
+</span>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=fansirsqi&show_icons=true&locale=en" alt="fansirsqi" /></p>
-
-
+<span align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=fansirsqi&show_icons=true&locale=en" alt="fansirsqi" />
+</span>
