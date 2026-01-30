@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, This's fansirsqi </h1>
 
 <p align="center">
@@ -8,7 +10,9 @@
 
 <hr/>
 
-<span align="left">
+<span align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fansirsqi&show_icons=true&locale=en&layout=compact" alt="fansirsqi" />
 </span>
+
+
 
